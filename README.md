@@ -22,7 +22,7 @@ $ chmod +x youtube-downloader
 ```
 Now we have to add ~/bin as a path variable
 ```
-$ export $PATH=$HOME/bin
+$ export PATH="$HOME/bin:$PATH"
 ```
 UuuHuu here we go , its done.
 
